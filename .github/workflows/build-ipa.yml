@@ -1,0 +1,70 @@
+name: iOS .ipa oluştur
+
+on:
+  workflow_dispatch:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: En yeni Xcode'u seç (Liquid Glass için Xcode 26+)
+        run: |
+          XC=$(ls -d /Applications/Xcode_26*.app 2>/dev/null | sort -V | tail -1)
+          if [ -z "$XC" ]; then XC=$(ls -d /Applications/Xcode*.app | sort -V | tail -1); fi
+          echo "Seçilen: $XC"
+          sudo xcode-select -s "$XC/Contents/Developer"
+          xcodebuild -version
+
+      - name: Xcode projesini oluştur (XcodeGen)
+        run: |
+          brew install xcodegen
+          xcodegen generate
+
+      - name: Derle (imzasız)
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project BolgeFiyat.xcodeproj \
+            -target BolgeFiyat \
+            -configuration Release \
+            -sdk iphoneos \
+            SYMROOT="$PWD/build" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build 2>&1 | tee build.log | grep -E "error:|warning: .*deprecated|BUILD (SUCCEEDED|FAILED)" || true
+          test -d build/Release-iphoneos/BolgeFiyat.app
+
+      - name: Hata kaydını yayınla
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          touch build.log
+          grep -E "error:" build.log | head -60 > errors.txt || true
+          gh release create "log-${{ github.run_number }}" build.log errors.txt --title "Derleme hatası ${{ github.run_number }}" --notes "Derleme başarısız." --prerelease
+
+      - name: .ipa paketle
+        run: |
+          mkdir -p Payload
+          cp -R build/Release-iphoneos/BolgeFiyat.app Payload/
+          zip -qry BolgeFiyat.ipa Payload
+          ls -lh BolgeFiyat.ipa
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: BolgeFiyat-ipa
+          path: BolgeFiyat.ipa
+
+      - name: Sürüm olarak yayınla (indirmesi kolay olsun)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="build-${{ github.run_number }}"
+          gh release create "$TAG" BolgeFiyat.ipa --title "Bölge Fiyat $TAG" --notes "Sideloadly ile yükle." --latest

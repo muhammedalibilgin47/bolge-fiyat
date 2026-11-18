@@ -1,0 +1,1594 @@
+{
+ "updated": "2026-11-18",
+ "usdTry": 50.39,
+ "fx": {
+  "USD": 1,
+  "TRY": 0.019845207382417147,
+  "EUR": 1.102,
+  "GBP": 1.322,
+  "UAH": 0.02196,
+  "INR": 0.010494,
+  "JPY": 0.006334,
+  "BRL": 0.1865,
+  "PLN": 0.254,
+  "ZAR": 0.05897,
+  "MXN": 0.05391,
+  "ARS": 0.000645
+ },
+ "symbols": {
+  "USD": "$",
+  "TRY": "₺",
+  "EUR": "€",
+  "GBP": "£",
+  "UAH": "₴",
+  "INR": "₹",
+  "JPY": "¥",
+  "BRL": "R$",
+  "PLN": "zł ",
+  "ZAR": "R",
+  "MXN": "MX$",
+  "ARS": "ARS$"
+ },
+ "regions": [
+  {
+   "id": "us",
+   "flag": "🇺🇸",
+   "name": "ABD",
+   "cur": "USD"
+  },
+  {
+   "id": "tr",
+   "flag": "🇹🇷",
+   "name": "Türkiye",
+   "cur": "TRY"
+  },
+  {
+   "id": "ua",
+   "flag": "🇺🇦",
+   "name": "Ukrayna",
+   "cur": "UAH"
+  },
+  {
+   "id": "in",
+   "flag": "🇮🇳",
+   "name": "Hindistan",
+   "cur": "INR"
+  },
+  {
+   "id": "jp",
+   "flag": "🇯🇵",
+   "name": "Japonya",
+   "cur": "JPY"
+  },
+  {
+   "id": "br",
+   "flag": "🇧🇷",
+   "name": "Brezilya",
+   "cur": "BRL"
+  },
+  {
+   "id": "ar",
+   "flag": "🇦🇷",
+   "name": "Arjantin",
+   "cur": "ARS"
+  },
+  {
+   "id": "pl",
+   "flag": "🇵🇱",
+   "name": "Polonya",
+   "cur": "PLN"
+  },
+  {
+   "id": "eu",
+   "flag": "🇪🇺",
+   "name": "Avrupa (Euro)",
+   "cur": "EUR"
+  },
+  {
+   "id": "uk",
+   "flag": "🇬🇧",
+   "name": "İngiltere",
+   "cur": "GBP"
+  },
+  {
+   "id": "za",
+   "flag": "🇿🇦",
+   "name": "Güney Afrika",
+   "cur": "ZAR"
+  },
+  {
+   "id": "mx",
+   "flag": "🇲🇽",
+   "name": "Meksika",
+   "cur": "MXN"
+  }
+ ],
+ "games": [
+  {
+   "id": "grand-theft-auto-vi",
+   "name": "Grand Theft Auto VI",
+   "aliases": [
+    "gta 6",
+    "gta vi",
+    "gta6"
+   ],
+   "date": "2026-11-19",
+   "initials": "VI",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 79.99,
+       "tr": 3999,
+       "ua": 3499,
+       "in": 5999,
+       "jp": 9800,
+       "br": 449.9,
+       "ar": 79.99,
+       "pl": 349,
+       "eu": 79.99,
+       "uk": 69.99,
+       "za": 1499,
+       "mx": 1292.24
+      },
+      "xbox": {
+       "us": 79.99,
+       "tr": 3999,
+       "in": 5999,
+       "jp": 9800,
+       "br": 449.9,
+       "pl": 349,
+       "eu": 79.99,
+       "uk": 69.99,
+       "za": 1499,
+       "mx": 1499
+      }
+     }
+    },
+    {
+     "name": "Ultimate",
+     "prices": {
+      "ps": {
+       "us": 99.99,
+       "tr": 4999,
+       "ua": 4299,
+       "in": 7499,
+       "jp": 12280,
+       "br": 549.9,
+       "pl": 429,
+       "eu": 99.99,
+       "uk": 89.99,
+       "za": 1899,
+       "mx": 1619.83
+      },
+      "xbox": {
+       "us": 99.99,
+       "tr": 4999,
+       "in": 7499,
+       "jp": 12280,
+       "br": 549.9,
+       "pl": 429,
+       "eu": 99.99,
+       "uk": 89.99,
+       "za": 1899,
+       "mx": 1879
+      }
+     }
+    }
+   ],
+   "note": "PC sürümü açıklanmadı. Xbox fiyatları PS Store ile aynı, Meksika hariç.",
+   "sources": [
+    {
+     "title": "timesaver.gg (PS/Xbox, 23 Ekim 2026)",
+     "url": "https://timesaver.gg/blog/gta-6-price-uk-europe-canada-australia"
+    },
+    {
+     "title": "gtaboom (Ukrayna)",
+     "url": "https://www.gtaboom.com/buy-gta-6-cheap-in-these-countries-5b76"
+    }
+   ]
+  },
+  {
+   "id": "ea-sports-fc-27",
+   "name": "EA Sports FC 27",
+   "aliases": [
+    "fifa 27",
+    "fc27",
+    "fc 27",
+    "fifa"
+   ],
+   "date": "2026-09-25",
+   "initials": "27",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "tr": 3999,
+       "ua": 2599,
+       "in": 5999,
+       "jp": 9800,
+       "br": 349,
+       "ar": 69.99,
+       "eu": 79.99,
+       "uk": 69.99
+      },
+      "xbox": {
+       "us": 69.99,
+       "tr": 3999,
+       "eu": 79.99
+      },
+      "steam": {
+       "us": 69.99,
+       "tr": 69.99,
+       "eu": 69.99,
+       "uk": 59.99
+      }
+     }
+    },
+    {
+     "name": "Ultimate",
+     "prices": {
+      "ps": {
+       "us": 99.99,
+       "tr": 5499,
+       "in": 8999,
+       "eu": 109.99,
+       "uk": 99.99
+      },
+      "xbox": {
+       "us": 99.99,
+       "tr": 5499,
+       "in": 8999,
+       "eu": 109.99,
+       "uk": 99.99
+      },
+      "steam": {
+       "us": 99.99,
+       "tr": 99.99
+      }
+     }
+    }
+   ],
+   "note": "Ultimate Plus sürümü 31 Ağustos'ta satıştan kalktı. PS Store'da şu an %50 Black Friday indirimi var (1 Aralık'a kadar). Burada normal fiyatlar gösteriliyor.",
+   "sources": [
+    {
+     "title": "pspriceshub",
+     "url": "https://pspriceshub.com/en/blog/ea-fc-27-price-by-region"
+    },
+    {
+     "title": "platprices",
+     "url": "https://platprices.com/game/180564-ea-sports-fc-27-standard-edition"
+    },
+    {
+     "title": "webtekno (TR)",
+     "url": "https://www.webtekno.com/fc-27-turkiye-fiyatlari-h220958.html"
+    }
+   ]
+  },
+  {
+   "id": "call-of-duty-modern-warfare-4",
+   "name": "Call of Duty: Modern Warfare 4",
+   "aliases": [
+    "cod",
+    "mw4",
+    "modern warfare 4",
+    "call of duty"
+   ],
+   "date": "2026-10-23",
+   "initials": "MW4",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "tr": 3199
+      },
+      "xbox": {
+       "us": 69.99,
+       "tr": 3199
+      },
+      "steam": {
+       "us": 69.99,
+       "tr": 69.99
+      }
+     }
+    },
+    {
+     "name": "Vault",
+     "prices": {
+      "ps": {
+       "us": 99.99,
+       "tr": 4399,
+       "eu": 109.99,
+       "uk": 89.99
+      },
+      "xbox": {
+       "us": 99.99,
+       "tr": 4399,
+       "eu": 109.99,
+       "uk": 89.99
+      },
+      "steam": {
+       "us": 99.99,
+       "tr": 99.99,
+       "eu": 109.99,
+       "uk": 89.99
+      }
+     }
+    }
+   ],
+   "note": "Switch 2'de de var; diğer bölgelerin fiyatları henüz doğrulanmadı.",
+   "sources": [
+    {
+     "title": "tamindir (TR)",
+     "url": "https://www.tamindir.com/haber/call-of-duty-modern-warfare-4-turkiye-fiyati_109295/"
+    },
+    {
+     "title": "tech-insider (ABD)",
+     "url": "https://tech-insider.org/modern-warfare-4-launch-six-platforms-69-99-no-game-pass-2026/"
+    }
+   ]
+  },
+  {
+   "id": "marvel-s-wolverine",
+   "name": "Marvel's Wolverine",
+   "aliases": [
+    "wolverine"
+   ],
+   "date": "2026-09-15",
+   "initials": "W",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "tr": 3449,
+       "ua": 2199,
+       "in": 4999,
+       "jp": 8980,
+       "br": 399.9,
+       "pl": 339,
+       "eu": 79.99,
+       "uk": 69.99
+      }
+     }
+    },
+    {
+     "name": "Digital Deluxe",
+     "prices": {
+      "ps": {
+       "us": 79.99,
+       "tr": 3849,
+       "ua": 2399,
+       "in": 5599,
+       "jp": 9980,
+       "br": 455.9,
+       "uk": 79.99
+      }
+     }
+    }
+   ],
+   "note": "Sadece PS5.",
+   "sources": [
+    {
+     "title": "ps-store-db",
+     "url": "https://ps-store-db.live/games/10002861"
+    },
+    {
+     "title": "tamindir (TR)",
+     "url": "https://www.tamindir.com/haber/marvels-wolverine-turkiye-fiyati_109488/"
+    }
+   ]
+  },
+  {
+   "id": "phantom-blade-zero",
+   "name": "Phantom Blade Zero",
+   "aliases": [
+    "phantom blade 0",
+    "pbz"
+   ],
+   "date": "2026-10-29",
+   "initials": "PB0",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 59.99,
+       "tr": 2379,
+       "uk": 49.99
+      },
+      "steam": {
+       "us": 59.99,
+       "tr": 49.99
+      }
+     }
+    },
+    {
+     "name": "Digital Deluxe",
+     "prices": {
+      "ps": {
+       "us": 69.99
+      },
+      "steam": {
+       "us": 69.99
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "tamindir (TR)",
+     "url": "https://tamindir.com/haber/phantom-blade-zero-4-milyon-satis_112596"
+    },
+    {
+     "title": "Insider Gaming (ABD)",
+     "url": "https://insider-gaming.com/phantom-blade-zero-costs-less-than-60/"
+    }
+   ]
+  },
+  {
+   "id": "forza-horizon-6",
+   "name": "Forza Horizon 6",
+   "aliases": [
+    "fh6",
+    "forza 6",
+    "forza"
+   ],
+   "date": "2026-05-19",
+   "initials": "FH6",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "xbox": {
+       "us": 69.99,
+       "tr": 2999,
+       "eu": 69.99,
+       "uk": 59.99
+      },
+      "steam": {
+       "us": 69.99,
+       "tr": 32.99
+      },
+      "ps": {
+       "tr": 2999
+      }
+     }
+    },
+    {
+     "name": "Deluxe",
+     "prices": {
+      "xbox": {
+       "us": 99.99,
+       "tr": 4299,
+       "eu": 99.99,
+       "uk": 89.99
+      },
+      "steam": {
+       "us": 99.99
+      },
+      "ps": {
+       "tr": 4299
+      }
+     }
+    },
+    {
+     "name": "Premium",
+     "prices": {
+      "xbox": {
+       "us": 119.99,
+       "tr": 5199,
+       "eu": 119.99,
+       "uk": 109.99
+      },
+      "steam": {
+       "us": 119.99
+      },
+      "ps": {
+       "tr": 5149
+      }
+     }
+    }
+   ],
+   "note": "PS5 sürümü 26 Ocak 2027'de çıkacak; PS için şimdilik sadece Türkiye fiyatı doğrulandı.",
+   "sources": [
+    {
+     "title": "Insider Gaming",
+     "url": "https://insider-gaming.com/?p=192127"
+    },
+    {
+     "title": "webtekno (TR)",
+     "url": "https://www.webtekno.com/forza-horizon-6-fiyati-cikis-tarihi-aciklandi-h211305.html"
+    },
+    {
+     "title": "tamindir (PS TR)",
+     "url": "https://www.tamindir.com/haber/forza-horizon-6-ps5-cikis-tarihi-turkiye-fiyati_112233/"
+    }
+   ]
+  },
+  {
+   "id": "007-first-light",
+   "name": "007 First Light",
+   "aliases": [
+    "james bond",
+    "007",
+    "bond"
+   ],
+   "date": "2026-05-27",
+   "initials": "007",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "tr": 2999,
+       "eu": 69.99,
+       "uk": 59.99
+      },
+      "xbox": {
+       "us": 69.99,
+       "tr": 2800,
+       "eu": 69.99,
+       "uk": 59.99
+      },
+      "steam": {
+       "us": 69.99,
+       "tr": 39.99,
+       "eu": 69.99,
+       "uk": 59.99
+      }
+     }
+    },
+    {
+     "name": "Deluxe",
+     "prices": {
+      "ps": {
+       "us": 79.99,
+       "eu": 79.99,
+       "uk": 69.99
+      },
+      "xbox": {
+       "us": 79.99,
+       "eu": 79.99,
+       "uk": 69.99
+      },
+      "steam": {
+       "us": 79.99,
+       "eu": 79.99,
+       "uk": 69.99
+      }
+     }
+    }
+   ],
+   "note": "Türkiye fiyatları ön sipariş dönemine ait.",
+   "sources": [
+    {
+     "title": "IO Interactive",
+     "url": "https://ioi.dk/007firstlightgame/news/2026/turkish-subtitles-confirmed-for-007-first-light"
+    },
+    {
+     "title": "tamindir (TR)",
+     "url": "https://www.tamindir.com/haber/007-first-light-steam-fiyati-zam_99552/"
+    }
+   ]
+  },
+  {
+   "id": "resident-evil-requiem",
+   "name": "Resident Evil Requiem",
+   "aliases": [
+    "re9",
+    "resident evil 9",
+    "re requiem",
+    "resident evil"
+   ],
+   "date": "2026-02-27",
+   "initials": "RE9",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "tr": 3449,
+       "uk": 64.99
+      },
+      "xbox": {
+       "us": 69.99,
+       "tr": 3449
+      },
+      "steam": {
+       "us": 69.99,
+       "tr": 52.49
+      }
+     }
+    },
+    {
+     "name": "Deluxe",
+     "prices": {
+      "ps": {
+       "tr": 3849
+      },
+      "xbox": {
+       "us": 79.99,
+       "tr": 3849
+      },
+      "steam": {
+       "tr": 59.99
+      }
+     }
+    }
+   ],
+   "note": "Switch 2'de de var; diğer bölgelerin fiyatları henüz doğrulanmadı.",
+   "sources": [
+    {
+     "title": "webtekno (TR)",
+     "url": "https://www.webtekno.com/resident-evil-requiem-turkiye-fiyati-h205875.html"
+    },
+    {
+     "title": "platprices (UK)",
+     "url": "https://platprices.com/game/166254-resident-evil-requiem"
+    }
+   ]
+  },
+  {
+   "id": "pokemon-pokopia",
+   "name": "Pokémon Pokopia",
+   "aliases": [
+    "pokemon pokopia",
+    "pokopia",
+    "pokemon"
+   ],
+   "date": "2026-03-05",
+   "initials": "PK",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 69.99,
+       "br": 389.9,
+       "ar": 105999,
+       "pl": 297.8,
+       "eu": 69.99,
+       "uk": 58.99,
+       "mx": 1449,
+       "za": 1469,
+       "jp": 8980
+      }
+     }
+    }
+   ],
+   "note": "Sadece Switch 2. Türkiye'de Nintendo eShop yok.",
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/pokemon-pokopia/"
+    },
+    {
+     "title": "Perfectly Nintendo (JP)",
+     "url": "https://www.perfectly-nintendo.com/?p=634240"
+    }
+   ]
+  },
+  {
+   "id": "elden-ring",
+   "name": "Elden Ring",
+   "aliases": [
+    "elden"
+   ],
+   "date": "2022-02-25",
+   "initials": "ER",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 39.99,
+       "ua": 1799,
+       "in": 3599,
+       "jp": 9020,
+       "br": 274.5,
+       "ar": 47.99,
+       "pl": 249,
+       "eu": 59.99,
+       "uk": 49.99,
+       "za": 849,
+       "mx": 979
+      },
+      "ps": {
+       "us": 59.99,
+       "tr": 1499,
+       "ua": 1799,
+       "in": 3499,
+       "uk": 49.99
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/elden-ring/"
+    },
+    {
+     "title": "PS Deals (PS Store)",
+     "url": "https://psdeals.net/us-store/game/2295123/elden-ring-ps4-ps5"
+    }
+   ]
+  },
+  {
+   "id": "red-dead-redemption-2",
+   "name": "Red Dead Redemption 2",
+   "aliases": [
+    "rdr2",
+    "rdr 2",
+    "red dead"
+   ],
+   "date": "2018-10-26",
+   "initials": "RDR2",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 59.99,
+       "ua": 2599,
+       "in": 4999,
+       "jp": 8618,
+       "br": 299.9,
+       "ar": 59.99,
+       "pl": 249.9,
+       "eu": 59.99,
+       "uk": 59.99,
+       "za": 1149,
+       "mx": 1199
+      },
+      "ps": {
+       "us": 59.99,
+       "tr": 2099
+      }
+     }
+    },
+    {
+     "name": "Ultimate",
+     "prices": {
+      "ps": {
+       "us": 99.99,
+       "tr": 3499,
+       "in": 7699
+      }
+     }
+    }
+   ],
+   "note": "PS Store'da şu an Black Friday indirimi var; burada normal fiyatlar gösteriliyor.",
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/red-dead-redemption-2/"
+    },
+    {
+     "title": "PlatPrices (PS)",
+     "url": "https://platprices.com/game/39020-red-dead-redemption-2"
+    }
+   ]
+  },
+  {
+   "id": "grand-theft-auto-v",
+   "name": "Grand Theft Auto V",
+   "aliases": [
+    "gta 5",
+    "gta v",
+    "gta5"
+   ],
+   "date": "2013-09-17",
+   "initials": "V",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 29.99,
+       "tr": 29.99,
+       "ua": 1349,
+       "in": 2499,
+       "jp": 4380,
+       "br": 149.9,
+       "ar": 29.99,
+       "pl": 129,
+       "eu": 29.99,
+       "uk": 29.99,
+       "za": 569,
+       "mx": 599
+      }
+     }
+    }
+   ],
+   "note": "Steam'deki Enhanced sürümü.",
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/grand-theft-auto-v-enhanced/"
+    }
+   ]
+  },
+  {
+   "id": "hogwarts-legacy",
+   "name": "Hogwarts Legacy",
+   "aliases": [
+    "hogwarts",
+    "harry potter"
+   ],
+   "date": "2023-02-10",
+   "initials": "HL",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 59.99,
+       "ua": 1599,
+       "in": 3999,
+       "jp": 8778,
+       "br": 249.99,
+       "ar": 30,
+       "pl": 269,
+       "eu": 59.99,
+       "uk": 49.99,
+       "za": 999,
+       "mx": 999
+      },
+      "ps": {
+       "us": 69.99,
+       "in": 4399
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/hogwarts-legacy/"
+    },
+    {
+     "title": "PlatPrices (PS)",
+     "url": "https://platprices.com/game/93290-hogwarts-legacy-ps5-version"
+    }
+   ]
+  },
+  {
+   "id": "cyberpunk-2077",
+   "name": "Cyberpunk 2077",
+   "aliases": [
+    "cyberpunk",
+    "cp2077"
+   ],
+   "date": "2020-12-10",
+   "initials": "CP",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 44.99,
+       "ua": 1399,
+       "in": 2999,
+       "jp": 8778,
+       "br": 199.9,
+       "ar": 44.99,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 999
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (Steam)",
+     "url": "https://opentherank.com/steam-pricing/cyberpunk-2077/"
+    }
+   ]
+  },
+  {
+   "id": "baldur-s-gate-3",
+   "name": "Baldur's Gate 3",
+   "aliases": [
+    "bg3",
+    "baldurs gate",
+    "baldur"
+   ],
+   "date": "2023-08-03",
+   "initials": "BG3",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 34.99,
+       "ua": 899,
+       "in": 2999,
+       "jp": 8499,
+       "br": 199.99,
+       "ar": 34.99,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 1299
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (Steam)",
+     "url": "https://opentherank.com/steam-pricing/baldurs-gate-3/"
+    }
+   ]
+  },
+  {
+   "id": "forza-horizon-5",
+   "name": "Forza Horizon 5",
+   "aliases": [
+    "fh5",
+    "forza 5"
+   ],
+   "date": "2021-11-09",
+   "initials": "FH5",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 32.78,
+       "ua": 1199,
+       "in": 3499,
+       "jp": 7590,
+       "br": 249,
+       "ar": 32.78,
+       "pl": 249.9,
+       "eu": 59.99,
+       "uk": 49.99,
+       "za": 999,
+       "mx": 1399
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/forza-horizon-5/"
+    }
+   ]
+  },
+  {
+   "id": "resident-evil-4",
+   "name": "Resident Evil 4",
+   "aliases": [
+    "re4",
+    "resident evil 4 remake"
+   ],
+   "date": "2023-03-24",
+   "initials": "RE4",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 39.99,
+       "tr": 29.99,
+       "ua": 1200,
+       "in": 2497,
+       "jp": 4990,
+       "br": 169,
+       "ar": 29,
+       "pl": 169,
+       "eu": 39.99,
+       "uk": 34.99,
+       "za": 561.75,
+       "mx": 559
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/resident-evil-4/"
+    }
+   ]
+  },
+  {
+   "id": "sekiro-shadows-die-twice",
+   "name": "Sekiro: Shadows Die Twice",
+   "aliases": [
+    "sekiro"
+   ],
+   "date": "2019-03-22",
+   "initials": "SK",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 59.99,
+       "ua": 2035,
+       "in": 4997,
+       "jp": 8360,
+       "br": 274,
+       "ar": 59.99,
+       "eu": 59.99,
+       "uk": 49.9,
+       "mx": 1299
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (Steam)",
+     "url": "https://opentherank.com/steam-pricing/sekiro-shadows-die-twice/"
+    }
+   ]
+  },
+  {
+   "id": "stardew-valley",
+   "name": "Stardew Valley",
+   "aliases": [
+    "stardew"
+   ],
+   "date": "2016-02-26",
+   "initials": "SV",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 14.99,
+       "tr": 5.99,
+       "ua": 229,
+       "in": 479,
+       "jp": 1480,
+       "br": 24.99,
+       "ar": 4.99,
+       "eu": 13.99,
+       "uk": 10.99,
+       "mx": 149.99
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (Steam)",
+     "url": "https://opentherank.com/steam-pricing/stardew-valley/"
+    }
+   ]
+  },
+  {
+   "id": "rust",
+   "name": "Rust",
+   "aliases": [
+    "rust"
+   ],
+   "date": "2018-02-08",
+   "initials": "RS",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 39.99,
+       "tr": 18.99,
+       "ua": 890,
+       "in": 1889,
+       "jp": 4600,
+       "br": 119.99,
+       "ar": 18.99,
+       "eu": 39.99,
+       "uk": 34.99,
+       "mx": 469
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (Steam)",
+     "url": "https://opentherank.com/steam-pricing/rust/"
+    }
+   ]
+  },
+  {
+   "id": "pragmata",
+   "name": "Pragmata",
+   "aliases": [
+    "pragmata"
+   ],
+   "date": null,
+   "initials": "PR",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 59.99,
+       "tr": 44.99,
+       "ua": 1799,
+       "in": 3799,
+       "jp": 7990,
+       "br": 259,
+       "ar": 45,
+       "pl": 259,
+       "eu": 59.99,
+       "uk": 49.99,
+       "za": 860,
+       "mx": 869
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/pragmata/"
+    }
+   ]
+  },
+  {
+   "id": "crimson-desert",
+   "name": "Crimson Desert",
+   "aliases": [
+    "crimson"
+   ],
+   "date": null,
+   "initials": "CD",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 69.99,
+       "tr": 69.99,
+       "ua": 2449,
+       "in": 4499,
+       "jp": 9680,
+       "br": 349.99,
+       "ar": 69.99,
+       "pl": 299,
+       "eu": 69.99,
+       "uk": 54.99,
+       "za": 1299,
+       "mx": 1299
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "comparegameprices (Steam, Kasım 2026)",
+     "url": "https://comparegameprices.com/compare-price-by-country/crimson-desert/"
+    }
+   ]
+  },
+  {
+   "id": "ghost-of-yotei",
+   "name": "Ghost of Yōtei",
+   "aliases": [
+    "ghost of yotei",
+    "yotei",
+    "ghost"
+   ],
+   "date": "2025-10-02",
+   "initials": "GY",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "ua": 2199,
+       "jp": 8980
+      }
+     }
+    },
+    {
+     "name": "Digital Deluxe",
+     "prices": {
+      "ps": {
+       "us": 79.99,
+       "uk": 79.99
+      }
+     }
+    }
+   ],
+   "note": "Sadece PS5. Şu an PS Store'da yaklaşık %29 indirimde; burada normal fiyatlar gösteriliyor.",
+   "sources": [
+    {
+     "title": "PlatPrices (PS)",
+     "url": "https://platprices.com/game/155489-ghost-of-y%C3%85tei"
+    },
+    {
+     "title": "Insider Gaming (Deluxe)",
+     "url": "https://insider-gaming.com/?p=115010"
+    }
+   ]
+  },
+  {
+   "id": "marvel-s-spider-man-2",
+   "name": "Marvel's Spider-Man 2",
+   "aliases": [
+    "spiderman 2",
+    "spider man 2",
+    "spider-man"
+   ],
+   "date": "2023-10-20",
+   "initials": "SM2",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "ps": {
+       "us": 69.99,
+       "uk": 69.99
+      },
+      "steam": {
+       "us": 59.99
+      }
+     }
+    },
+    {
+     "name": "Digital Deluxe",
+     "prices": {
+      "ps": {
+       "us": 79.99,
+       "uk": 79.99
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "GamesRadar",
+     "url": "https://www.gamesradar.com/marvels-spider-man-2-pre-order-guide-including-digital-deluxe-edition-and-where-to-get-venom-collectors-statue"
+    }
+   ]
+  },
+  {
+   "id": "mario-kart-world",
+   "name": "Mario Kart World",
+   "aliases": [
+    "mario kart",
+    "mkw"
+   ],
+   "date": "2025-06-05",
+   "initials": "MK",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 79.99,
+       "jp": 8980,
+       "br": 439.9,
+       "ar": 120999,
+       "pl": 329.8,
+       "eu": 79.99,
+       "uk": 66.99,
+       "mx": 1649,
+       "za": 1529
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/mario-kart-world/"
+    }
+   ]
+  },
+  {
+   "id": "pokemon-legends-z-a",
+   "name": "Pokémon Legends: Z-A",
+   "aliases": [
+    "pokemon za",
+    "pokemon z-a",
+    "legends za"
+   ],
+   "date": "2025-10-16",
+   "initials": "ZA",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 59.99,
+       "jp": 7100,
+       "br": 329.9,
+       "ar": 90999,
+       "pl": 249.8,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 1229,
+       "za": 1129
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/pokemon-legends-z-a/"
+    }
+   ]
+  },
+  {
+   "id": "the-legend-of-zelda-tears-of-the-kingdom",
+   "name": "The Legend of Zelda: Tears of the Kingdom",
+   "aliases": [
+    "zelda",
+    "totk",
+    "tears of the kingdom"
+   ],
+   "date": "2023-05-12",
+   "initials": "TK",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 69.99,
+       "jp": 7900,
+       "br": 389.9,
+       "ar": 105999,
+       "pl": 289.8,
+       "eu": 69.99,
+       "uk": 59.99,
+       "mx": 1449,
+       "za": 1329
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/zelda-tears-of-the-kingdom/"
+    }
+   ]
+  },
+  {
+   "id": "donkey-kong-bananza",
+   "name": "Donkey Kong Bananza",
+   "aliases": [
+    "donkey kong",
+    "dk bananza"
+   ],
+   "date": "2025-07-17",
+   "initials": "DK",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 69.99,
+       "jp": 7980,
+       "br": 389.9,
+       "ar": 105999,
+       "pl": 289.8,
+       "eu": 69.99,
+       "uk": 58.99,
+       "mx": 1449,
+       "za": 1329
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/donkey-kong-bananza/"
+    }
+   ]
+  },
+  {
+   "id": "hollow-knight-silksong",
+   "name": "Hollow Knight: Silksong",
+   "aliases": [
+    "silksong",
+    "hollow knight"
+   ],
+   "date": "2025-09-04",
+   "initials": "HK",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "steam": {
+       "us": 19.99,
+       "tr": 7.99,
+       "ar": 6.99
+      }
+     }
+    }
+   ],
+   "note": "Diğer Steam bölgelerinin yerel fiyatları kaynakta yoktu, sadece dolarla satılan bölgeler eklendi.",
+   "sources": [
+    {
+     "title": "OpenTheRank (Steam)",
+     "url": "https://opentherank.com/steam-pricing/hollow-knight-silksong/"
+    }
+   ]
+  },
+  {
+   "id": "animal-crossing-new-horizons",
+   "name": "Animal Crossing: New Horizons",
+   "aliases": [
+    "animal crossing",
+    "acnh"
+   ],
+   "date": "2020-03-20",
+   "initials": "AC",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 59.99,
+       "jp": 6578,
+       "br": 329.9,
+       "ar": 90999,
+       "pl": 249.8,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 1229,
+       "za": 1129
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/animal-crossing-new-horizons/"
+    }
+   ]
+  },
+  {
+   "id": "splatoon-3",
+   "name": "Splatoon 3",
+   "aliases": [
+    "splatoon"
+   ],
+   "date": "2022-09-09",
+   "initials": "S3",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 59.99,
+       "jp": 6500,
+       "br": 329.9,
+       "ar": 90999,
+       "pl": 249.8,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 1229,
+       "za": 1129
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/splatoon-3/"
+    }
+   ]
+  },
+  {
+   "id": "super-mario-odyssey",
+   "name": "Super Mario Odyssey",
+   "aliases": [
+    "mario odyssey",
+    "odyssey"
+   ],
+   "date": "2017-10-27",
+   "initials": "SMO",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 59.99,
+       "jp": 6578,
+       "br": 329.9,
+       "ar": 90999,
+       "pl": 249.8,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 1229,
+       "za": 1129
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/super-mario-odyssey/"
+    }
+   ]
+  },
+  {
+   "id": "super-mario-party-jamboree",
+   "name": "Super Mario Party Jamboree",
+   "aliases": [
+    "mario party",
+    "jamboree"
+   ],
+   "date": "2024-10-17",
+   "initials": "MP",
+   "editions": [
+    {
+     "name": "Standart",
+     "prices": {
+      "nin": {
+       "us": 59.99,
+       "jp": 7100,
+       "br": 329.9,
+       "ar": 90999,
+       "pl": 249.8,
+       "eu": 59.99,
+       "uk": 49.99,
+       "mx": 1229,
+       "za": 1129
+      }
+     }
+    }
+   ],
+   "note": null,
+   "sources": [
+    {
+     "title": "OpenTheRank (eShop)",
+     "url": "https://opentherank.com/eshop-pricing/super-mario-party-jamboree/"
+    }
+   ]
+  }
+ ]
+}
